@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋🏼
 [![Blog](https://img.shields.io/badge/-Blog-03a57a?style=flat-square&labelColor=000000&logo=Gastby&link=https://jiyehyeon.netlify.app/)](https://jiyehyeon.netlify.app/)
-[![Gmail](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonjiyeah@gmail.com)](mailto: hyeonjiyeah@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonjiyeah@gmail.com)]
 
 ## 💪🏻
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
