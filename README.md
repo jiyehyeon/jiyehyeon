@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 👀 Reach Me
 [![Gmail](https://img.shields.io/badge/Mail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyeonjiyeah@gmail.com)](mailto:hyeonjiyeah@gmail.com)
 
-## 💪🏻 Stack
+## 💪🏻 Working on
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
