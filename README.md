@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyehyeon)](https://hits.seeyoufarm.com) 
 
 ## 👋🏼 About Me
-[![Blog](https://img.shields.io/badge/-Blog-03a57a?style=flat&logoColor=white&logo=Gatsby&link=https://jiyehyeon.netlify.app/)](https://jiyehyeon.netlify.app/)
+[![Blog](https://img.shields.io/badge/-Blog-03a57a?style=flat&logoColor=white&logo=Gatsby&link=https://velog.io/@jiyehyeon)](https://velog.io/@jiyehyeon)
 
 ## 👀 Reach Me
 [![Gmail](https://img.shields.io/badge/Mail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hyeonjiyeah@gmail.com)](mailto:hyeonjiyeah@gmail.com)
